@@ -1,0 +1,58 @@
+img{
+    height: 250px;
+    width: 300px;
+    border-radius: 230px;
+}
+#texto{
+    background: rgb(149, 184, 209);
+    border: solid 1px rgb(124, 35, 140);
+}
+footer{
+    background: rgb(45, 49, 66);
+}
+#imagem{
+    background: rgb(45, 49, 66);
+}
+.menu{
+    color: rgb(102, 157, 49);
+    background: rgb(100,59,200);
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: medium;
+    margin-left: 10px;
+}
+a:hover{
+    color: rgb(230, 52, 98);
+
+}
+
+#h1_menu{
+    background: rgb(255,0,56);
+}
+input{
+    display: block;
+    margin-bottom:5px ;
+    margin-left: 25px;
+}
+#bt_login{
+    margin-left: 76px;
+}
+
+fieldset{
+
+    border: 1px solid;
+    width: 300px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
